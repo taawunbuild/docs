@@ -1,4 +1,21 @@
 # Project To-do List
 
-- [ ] Bismillahirrahmannirrahiim
-- [ ] Coba
+- [ ] Content strategy
+  - [ ] Brand value
+  - [ ] Customer demographic/behaviour
+  - [ ] Customer pain point
+  - [ ] Benefit menggunakan Ta'awun Build
+  - [ ] Ta'awun solution
+- [ ] Content Material
+  - [ ] Copywriting
+  - [ ] Koleksi foto dari Ta'awun Build
+  - [ ] Tentang Ta'awun
+- [ ] Portfolio
+  - [ ] Rekap project yang sudah selesai
+  - [ ] Foto-foto project
+- [ ] Case study
+  - [ ] Pemilihan past project
+  - [ ] Testimoni
+- [ ] Social proof
+  - [ ] Testimonial
+  - [ ] Partnership
