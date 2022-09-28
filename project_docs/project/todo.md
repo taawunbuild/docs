@@ -18,4 +18,4 @@
   - [ ] Testimoni
 - [ ] Social proof
   - [ ] Testimonial
-  - [ ] Partnership
+  - [ ] Partnerships
