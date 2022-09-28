@@ -1,4 +1,6 @@
 * [Home](/)
-* Project
+* [Project]()
   * [Detail](/project/detail.md)
   * [To-do](/project/todo.md)
+* [Content]()
+  * [Strategy](/content/strategy.md)
