@@ -1,11 +1,11 @@
 # Project To-do List
 
 - [ ] Content strategy
-  - [ ] Brand value
-  - [ ] Customer demographic/behaviour
-  - [ ] Customer pain point
-  - [ ] Benefit menggunakan Ta'awun Build
-  - [ ] Ta'awun solution
+  - [X] Brand value
+  - [X] Customer demographic/behaviour
+  - [X] Customer pain point
+  - [X] Benefit menggunakan Ta'awun Build
+  - [X] Ta'awun solution
 - [ ] Content Material
   - [ ] Copywriting
   - [ ] Koleksi foto dari Ta'awun Build
