@@ -4,3 +4,5 @@
   * [To-do](/project/todo.md)
 * [Content]()
   * [Strategy](/content/strategy.md)
+  * [Copywriting](/content/copywriting/homepage.md)
+    * [Homepage](/content/copywriting/homepage.md)
